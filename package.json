@@ -1,0 +1,34 @@
+{
+  "name": "healthy-store-privacy-service",
+  "version": "1.0.0",
+  "description": "Privacy Policy and Facebook Data Deletion Service for Healthy Store",
+  "main": "fb-data-deletion.js",
+  "scripts": {
+    "start": "node fb-data-deletion.js",
+    "dev": "nodemon fb-data-deletion.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "facebook",
+    "data-deletion",
+    "privacy-policy",
+    "gdpr",
+    "express",
+    "nodejs"
+  ],
+  "author": "Healthy Store Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourcompany/healthy-store-privacy.git"
+  }
+}
