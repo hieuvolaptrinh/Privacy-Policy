@@ -1,6 +1,6 @@
-# Healthy Store - Privacy Policy & Data Deletion Service
+# Template - Privacy Policy & Data Deletion Service
 
-Dự án này bao gồm trang Privacy Policy và Facebook Data Deletion Callback endpoint cho ứng dụng Healthy Store.
+Dự án này bao gồm trang Privacy Policy và Facebook Data Deletion Callback endpoint cho ứng dụng để bạn tham khảo
 
 ## 📁 Cấu trúc thư mục
 
@@ -221,9 +221,5 @@ CMD ["npm", "start"]
 ## 📞 Support
 
 Nếu có vấn đề, liên hệ:
-- Email: support@healthystore.com
-- GitHub Issues: [Link to repository]
+- Email: vndhieuak@gmail.com
 
-## 📝 License
-
-MIT License - xem file LICENSE để biết thêm chi tiết.
